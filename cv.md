@@ -1,6 +1,6 @@
 1. Full name: Azizbek Savkimov Muratbekovich
 2. Contacts: +998 99 872 98 05
-3. Goal: to become a greate JavaScript developer, to learn how to write clean understandable code in vanilla js without libraries and frameworks. Learn how to write frameworks, inet shops etc. Good sides: good google, problem-solving, independence, patient
+3. Goal: to become a greate JavaScript developer, to learn how to write clean understandable code in vanilla js without libraries and frameworks. Learn how to write frameworks, inet shops etc. Good sides: good googling, solve problems, independence, patient and dont give up
 4. Skills: html, css, js(20-30%), vue, bem, git, idea
 5. Example: https://github.com/AzizbekSavkimov/BreakingBad
 6. React: https://coursehunter.net/course/react-razrabotchik-2019-s-redux-hooks-graphql but i forget it https://github.com/AzizbekSavkimov/shop-clothing <br>
