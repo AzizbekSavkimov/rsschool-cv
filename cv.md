@@ -5,5 +5,5 @@
 5. Example: https://github.com/AzizbekSavkimov/BreakingBad
 6. React: https://coursehunter.net/course/react-razrabotchik-2019-s-redux-hooks-graphql but i forget it https://github.com/AzizbekSavkimov/shop-clothing <br>
    Vue: https://www.youtube.com/watch?v=k3yRfEw1pYk&list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7 <br> projects: https://maximumtest.ru/ I can't show the code NDA
-7. Education: weak frontend developer, middle+ layouter
+7. Education: junior frontend developer, middle+ layouter
 8. English: level - intermediate, speaking is not good, i can read docs and understand fully
